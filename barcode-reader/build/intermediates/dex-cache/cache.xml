@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Programacao\android-vision\visionSamples\barcode-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f5eebefa7e2282583a490ff1a585a41bf116a8">
+        <dex dex="C:\Programacao\android-vision\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c2255549b15c48a3b07006c393c8fd7ea755449f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Programacao\android-vision\visionSamples\barcode-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Programacao\android-vision\visionSamples\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e105079be894a09c9e0fe2c4411049ff6d6c605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Programacao\Etiquetas\barcode-reader\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c9e1c8414f32cfc4b5dde64d5b0b8ba5b63df46">
+        <dex dex="C:\Programacao\Etiquetas\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_49eebd0ee3fe1947abd6930ac1a6c8e16269527b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Programacao\Etiquetas\barcode-reader\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Programacao\Etiquetas\barcode-reader\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_089cf3326feb526dbb3d2c6af6ddf58e906e3a4a\classes.dex" />
+    </item>
+
+</items>

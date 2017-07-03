@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
+        "source": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\Etiquetas\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
+        "source": "C:\\Programacao\\Etiquetas\\barcode-reader\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
+    }
+]
