@@ -21,18 +21,20 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.CompoundButton;
 import android.widget.TextView;
 
 import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.samples.vision.barcodereader.reader.barcode.BarcodeCaptureActivity;
+import com.google.android.gms.samples.vision.barcodereader.reader.ocr.OcrCaptureActivity;
 import com.google.android.gms.vision.barcode.Barcode;
 
 /**
  * Main activity demonstrating how to pass extra parameters to an activity that
  * reads barcodes.
  */
-public class MainActivity extends Activity implements View.OnClickListener {
+public class MainActivity extends Activity {
 
     // use a compound button so either checkbox or switch widgets work.
     private CompoundButton autoFocus;
@@ -40,8 +42,14 @@ public class MainActivity extends Activity implements View.OnClickListener {
     private TextView statusMessage;
     private TextView barcodeValue;
 
+    private Button btoLerBarcode;
+    private Button btoLerTexto;
+
+
     private static final int RC_BARCODE_CAPTURE = 9001;
     private static final String TAG = "BarcodeMain";
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -54,26 +62,33 @@ public class MainActivity extends Activity implements View.OnClickListener {
         autoFocus = (CompoundButton) findViewById(R.id.auto_focus);
         useFlash = (CompoundButton) findViewById(R.id.use_flash);
 
-        findViewById(R.id.read_barcode).setOnClickListener(this);
+        btoLerBarcode =(Button) findViewById(R.id.read_barcode);
+        btoLerBarcode.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, BarcodeCaptureActivity.class);
+                intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
+                intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
+
+                startActivityForResult(intent, RC_BARCODE_CAPTURE);
+
+            }
+        });
+
+        btoLerTexto =(Button) findViewById(R.id.bto_ler_texto);
+        btoLerTexto.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, OcrCaptureActivity.class);
+                intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
+                intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
+
+                startActivityForResult(intent, RC_BARCODE_CAPTURE);
+
+            }
+        });
     }
 
-    /**
-     * Called when a view has been clicked.
-     *
-     * @param v The view that was clicked.
-     */
-    @Override
-    public void onClick(View v) {
-        if (v.getId() == R.id.read_barcode) {
-            // launch barcode activity.
-            Intent intent = new Intent(this, BarcodeCaptureActivity.class);
-            intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
-            intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
-
-            startActivityForResult(intent, RC_BARCODE_CAPTURE);
-        }
-
-    }
 
     /**
      * Called when an activity you launched exits, giving you the requestCode
