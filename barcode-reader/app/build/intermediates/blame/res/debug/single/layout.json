@@ -80,16 +80,16 @@
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
         "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
@@ -506,6 +506,10 @@
     {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ocr_capture.xml",
+        "source": "C:\\Programacao\\teste\\barcode-reader\\app\\src\\main\\res\\layout\\ocr_capture.xml"
     },
     {
         "merged": "C:\\Programacao\\teste\\price-ranking\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
