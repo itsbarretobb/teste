@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Programacao\\teste\\price-ranking\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Programacao\\teste\\price-ranking\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Programacao\\teste\\barcode-reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
+        "source": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\price-ranking\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
+        "source": "C:\\Programacao\\teste\\price-ranking\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\barcode_capture.xml",
+        "source": "C:\\Programacao\\teste\\barcode-reader\\app\\src\\main\\res\\layout-land\\barcode_capture.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Programacao\\teste\\price-ranking\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\price-ranking\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Programacao\\teste\\price-ranking\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Programacao\\teste\\price-ranking\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Programacao\\teste\\barcode-reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
