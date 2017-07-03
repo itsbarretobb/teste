@@ -1,5 +1,21 @@
 [
     {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_slide_out_top.xml"
     },
@@ -28,8 +44,16 @@
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Programacao\\Etiquetas\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -42,6 +66,10 @@
     {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
@@ -76,6 +104,14 @@
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_popup_exit.xml"
     },
@@ -86,6 +122,14 @@
     {
         "merged": "C:\\Programacao\\Etiquetas\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Programacao\\android-vision\\visionSamples\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -108,7 +152,19 @@
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_fab_in.xml"
     },
     {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
         "merged": "C:\\Programacao\\Etiquetas\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\82014a0201e1b92a40acdfeb29434747213b3474\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Programacao\\teste\\barcode-reader\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Italo Dell\\.android\\build-cache\\99ec6abaf1d8ca3d6c2a9de510e263566bac7947\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     }
 ]
